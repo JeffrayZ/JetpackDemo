@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Lifecycles</string>
+    <string name="tab_text_1" translatable="false">Tab 1</string>
+    <string name="tab_text_2" translatable="false">Tab 2</string>
+</resources>
